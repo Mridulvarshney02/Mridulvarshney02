@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mridul Varshney</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate GENAI and AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulvarshney02&label=Profile%20views&color=0e75b6&style=flat" alt="mridulvarshney02" /> </p>
 
-- 🔭 I’m currently working on **Illegal Insider Trading Detection Model**
+- 🔭 I’m currently working on **MLops**
 
 - 👯 I’m looking to collaborate on **Agentic AI Projects**
 
 - 🤝 I’m looking for help with **MLOPS**
 
-- 💬 Ask me about **ML,AI,DL,AI Agents,LLM's ,Fine tuning,RAG,CAG**
+- 💬 Ask me about **ML,AI,DL,AI Agents,LLM's ,Fine tuning,RAG**
 
 - 📫 How to reach me **mridulVarshney67@gmail.com**
 
