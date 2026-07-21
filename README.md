@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulvarshney02&label=Profile%20views&color=0e75b6&style=flat" alt="mridulvarshney02" /> </p>
 
-- 🔭 I’m currently working on **MLops**
+- 🔭 I’m currently working on **AI Agents**
 
 - 👯 I’m looking to collaborate on **Agentic AI Projects**
 
-- 🤝 I’m looking for help with **MLOPS**
+- 🤝 I’m looking for help with **Evals**
 
-- 💬 Ask me about **ML,AI,DL,AI Agents,LLM's ,Fine tuning,RAG**
+- 💬 Ask me about **ML, AI, DL, AI Agents, LLM's, fine-tuning, RAG**
 
-- 📫 How to reach me **mridulVarshney67@gmail.com**
+- 📫 How to reach me: **mridulVarshney67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
